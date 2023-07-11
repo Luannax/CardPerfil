@@ -2,4 +2,6 @@
 React Native, Card de Perfil feito com a DevMedia.
 
 Visualização do projeto:
-<img src="./assets/CardPerfil App.png"/>
+
+
+<img width=100% src="./assets/CardPerfil App.png"/>
